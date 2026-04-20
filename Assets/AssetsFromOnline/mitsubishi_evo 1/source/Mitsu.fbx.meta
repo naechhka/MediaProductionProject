@@ -1,9 +1,39 @@
 fileFormatVersion: 2
-guid: b301ae7a9842b724cb3fa89c556b4c95
+guid: f7c53bcf28033dd42aa2eae70822136e
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back.Lights
+    second: {fileID: 2100000, guid: 027d849162ae0f948ad5f09f4cc4f35a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front.Lights
+    second: {fileID: 2100000, guid: 639aa0f34a3023a4eaaba6a093a6a058, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 5807c7496801df74c896328e75bfc6d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: ad061c5623c5f4b468ac626e0bbf9462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver
+    second: {fileID: 2100000, guid: eae2582be0c4d264898f3eb05da28822, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tires
+    second: {fileID: 2100000, guid: 231776c7271ba5b4d9ca8e578e674b45, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
